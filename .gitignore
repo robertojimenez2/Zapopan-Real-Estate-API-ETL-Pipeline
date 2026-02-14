@@ -1,5 +1,5 @@
 venv/
 __pycache__/
 *.db
-pagina_prueba.html
+pagina.html
 .env
